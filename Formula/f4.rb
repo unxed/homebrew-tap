@@ -9,11 +9,11 @@ class F4 < Formula
   on_macos do
     on_arm do
       url "https://github.com/unxed/f4/releases/download/v0.2.0-beta/f4-darwin-arm64.tar.gz"
-      sha256 "1d84c5e0207cf351acc49bdb189f9cc44e42b865464c81abd53265d16c08c144"
+      sha256 "e8264fc22192b2e7b3951de0d7d4002e3c2124b6c75905a0b6178ad3359ac871"
     end
     on_intel do
       url "https://github.com/unxed/f4/releases/download/v0.2.0-beta/f4-darwin-amd64.tar.gz"
-      sha256 "be0b5348fe20f7a70965e7d09c1f4a0ae23ce6553afa71aa6393c7d47c971aa4"
+      sha256 "1c1eda0b7e17f257156ed8627979dd032e3154a1b3d1af56513d2366eaed9a0e"
     end
   end
 

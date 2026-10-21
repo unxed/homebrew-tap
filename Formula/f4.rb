@@ -3,17 +3,17 @@
 class F4 < Formula
   desc "# f4 — efficient and cozy file manager in go"
   homepage "https://github.com/unxed/f4"
-  version "0.3.0-beta"
+  version "0.4.0-beta"
   license "BSD-3-Clause"
 
   on_macos do
     on_arm do
-      url "https://github.com/unxed/f4/releases/download/v0.3.0-beta/f4-darwin-arm64.tar.gz"
-      sha256 "ba53f95576c96ea2703673391f851d0c7df85b768f20a512bdb0c742614fdc86"
+      url "https://github.com/unxed/f4/releases/download/v0.4.0-beta/f4-darwin-arm64.tar.gz"
+      sha256 "8dfb0eaaf961d150649084b0ba0f53b356313d2cf2bf2ec8c867114e9d09a35a"
     end
     on_intel do
-      url "https://github.com/unxed/f4/releases/download/v0.3.0-beta/f4-darwin-amd64.tar.gz"
-      sha256 "90219fefd0faedd8517dd6f83c60a7b48580dd5e5e058d31421cb75e3f80aec0"
+      url "https://github.com/unxed/f4/releases/download/v0.4.0-beta/f4-darwin-amd64.tar.gz"
+      sha256 "0395e6a0715fd61927f5ab76f4801646a36f477621c269f4a65ce38bd2a6aff7"
     end
   end
 
